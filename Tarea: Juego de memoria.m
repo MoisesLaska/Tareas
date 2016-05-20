@@ -6,7 +6,9 @@
 //  Copyright © 2016 Moises. All rights reserved.
 //
 
-#import <Foundation/Foundation.h>
+// Tarea 1: Juego de memoria
+
+import UIKit
 
 /*
  Instrucciones:
